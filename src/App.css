@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: 15px 15px 15px 15px;
+  background-color:darkgoldenrod ;
+}
+.botones {  
+  display: flex;
+  flex-direction: row;
+  gap: 20px;
+}
+
+
+body {
+  background-color: rgb(69, 67, 67);
+}

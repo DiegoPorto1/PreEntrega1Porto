@@ -3,7 +3,7 @@ const NavBar = () => {
 return (
     <nav> 
     <h3> Ecommerce</h3>
-    <div>
+    <div className="botones">
     <button>Hamburguesa</button>
     <button>Bebida</button> 
     <button>Cerveza</button>
